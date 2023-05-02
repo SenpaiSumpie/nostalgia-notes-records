@@ -67,6 +67,7 @@ const Home: NextPage = () => {
                 height={24}
               />
               <Link
+                target="_blank"
                 href="https://twitter.com/NostalNotesRecs"
                 passHref
               >
@@ -81,6 +82,7 @@ const Home: NextPage = () => {
                 height={24}
               />
               <Link
+                target="_blank"
                 href="https://www.instagram.com/nostalnotesrecs/"
                 passHref
               >
@@ -95,6 +97,7 @@ const Home: NextPage = () => {
                 height={24}
               />
               <Link
+                target="_blank"
                 href="https://www.facebook.com/nostalgianotesrecords"
                 passHref
               >
