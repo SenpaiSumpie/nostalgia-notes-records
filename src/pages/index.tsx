@@ -51,10 +51,10 @@ const Home: NextPage = () => {
             While our catalog is still in development, we are hard at work curating a collection of beloved titles that will be sure to delight gamers and vinyl enthusiasts alike.
             <br/>
             <br/>
-            We believe that the soundtracks of these games are an integral part of the experience, and deserve to be celebrated in their own right. By capturing these compositions on vinyl, we hope to create a unique and immersive way for gamers to revisit their favorite titles.
+            We believe that the soundtracks of these games are an integral part of the experience, and deserve to be celebrated in their own right. By capturing these compositions on vinyl, we hope to create a unique and immersive way for gamers to revisit their favorite titles, and for newcomers, a new favorite soundscape.
             <br/>
             <br/>
-            Thank you for visiting our website, and we look forward to sharing more updates with you soon.
+            Thank you for visiting our website, and we look forward to sharing more updates with you soon!
           </span>
         </div>
         <div className={styles.footer}>
